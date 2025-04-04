@@ -18,7 +18,7 @@ movies_dict = pickle.load(open('movies_dict.pkl', 'rb'))
 movies = pd.DataFrame(movies_dict)
 
 
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+similarity = pickle.load(open('https://drive.google.com/file/d/19J52AY6LB2l0_XmL6g8QkpcHawAA__E0/view?usp=drive_link', 'rb'))
 
 st.title('Movie Recommender System')
 
