@@ -1,7 +1,10 @@
-# movie-recommendation-system
+this repository contains the early phase of my progress in the world of machine learning and data science
 
-## Download Large File
+here i have used:
+-python
+-pandas
+-nltk
+-streamlit
+-scikit learn
 
-The dataset file is too large for GitHub, so it's hosted externally:
-
-👉 [Download Here (Google Drive)](https://drive.google.com/file/d/19J52AY6LB2l0_XmL6g8QkpcHawAA__E0/view?usp=drive_link)
+this system recommends 5 movies based on the similarities in genre,tags,synopsis,actors and director of the movie
